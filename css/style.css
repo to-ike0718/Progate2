@@ -1,0 +1,13 @@
+.header{
+    height:65px;
+    background-color:rgba(34, 49, 52, 0.9);
+}
+
+.header-left{
+    float:left;
+
+}
+
+.header-right{
+    float:right;
+}
